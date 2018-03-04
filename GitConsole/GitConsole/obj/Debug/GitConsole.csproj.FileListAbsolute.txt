@@ -1,0 +1,6 @@
+G:\Desarrollo\Git\testRepository\GitConsole\GitConsole\bin\Debug\GitConsole.exe.config
+G:\Desarrollo\Git\testRepository\GitConsole\GitConsole\bin\Debug\GitConsole.exe
+G:\Desarrollo\Git\testRepository\GitConsole\GitConsole\bin\Debug\GitConsole.pdb
+G:\Desarrollo\Git\testRepository\GitConsole\GitConsole\obj\Debug\GitConsole.csprojResolveAssemblyReference.cache
+G:\Desarrollo\Git\testRepository\GitConsole\GitConsole\obj\Debug\GitConsole.exe
+G:\Desarrollo\Git\testRepository\GitConsole\GitConsole\obj\Debug\GitConsole.pdb
